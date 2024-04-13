@@ -6,3 +6,4 @@
 //Example
 
 let value: number = 10;
+
