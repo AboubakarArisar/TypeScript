@@ -1,6 +1,6 @@
 let fruit: string[] = ['Apple', 'Orange', 'Banana']; 
 
-for(var index in fruits) 
+for(var index in fruit) 
 { 
 	console.log(fruit[index]); // output: Apple Orange Banana 
 } 
